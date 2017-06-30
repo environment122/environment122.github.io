@@ -1,0 +1,41 @@
+h2 {
+       color:#7a0a96;
+}
+
+a {
+	color: black;
+}
+
+.green {
+	background-color: green;
+	color:black;
+	font-family: 'Dekko', cursive;
+}
+
+.blue {
+	background-color: #4286f4;
+	color: black;
+	font-family: 'Dekko', cursive;
+}
+.animal {
+	background-color: #a84814;
+	color:black;
+	font-family: 'Dekko', cursive;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+	color:black;
+	font-family: 'Dekko', cursive;
+}
+
+.navbar-inverse .navbar-brand {
+	color:black;
+	font-family: 'Dekko', cursive;
+}
+h1 {
+	font-family: 'Josefin Sans', sans-serif;
+}
+h2 {
+	font-family: 'Josefin Sans', sans-serif;
+font-family: 'Indie Flower', cursive;
+}
